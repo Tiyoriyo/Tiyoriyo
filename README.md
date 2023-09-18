@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I am a self-learning Web Developer. I was born in Russia and currently live in the UAE.</p>
+<p align="left">I am a self-studying web developer that currently resides in Dubai, United Arab Emirates. I love the design process of web development; it lets me showcase my creativity best through CSS styles and webpage layouts. I'm currently learning how to code with React. </p>
 
 ###
 
