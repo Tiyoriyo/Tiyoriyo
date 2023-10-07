@@ -17,7 +17,7 @@ I am a self-studying web developer that resides in Dubai. I am learning web deve
 <ul>
   <li><a href="https://tiyoriyo.github.io/personal_portfolio/">🗽 Personal Website</a></li>
   <li><a href="https://www.linkedin.com/in/vadim-kostrov/">🧑‍💼 LinkedIn</a></li>
-  <li><a href="https://www.theodinproject.com/dashboard">📚 What I'm Learning From</a></li>
+  <li><a href="https://www.theodinproject.com/dashboard">📚 Where I'm Learning From</a></li>
 </ul>
 
 
