@@ -21,7 +21,7 @@ I thrive in a world of code and have a passion for creating interactive web appl
 
 ## 🌐 Connect with Me
 
-I'm more than just a developer. Here are some links where you can connect with me and explore more of what I do:
+I'm a web developer with a multifaceted online presence. Here are some links where you can connect with me and explore various aspects of my web development journey:
 
 - 🗽 [Personal Website](https://tiyoriyo.github.io/personal_portfolio/): Check out my personal website to see some of my web projects and blog posts.
 
